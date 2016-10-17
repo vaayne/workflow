@@ -2,6 +2,8 @@
 
 ## 1. The Workflow for Alfred2
 
+**BT天堂已挂！！！**
+
 依赖：需要安装`lxml`.使用`pip install lxml`
 
 功能：**搜索BT天堂的电影，然后给出网页链接**。
