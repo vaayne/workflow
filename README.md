@@ -1,4 +1,4 @@
-# The Workflow for Alfred2
+# The Workflow for Alfred
 
 ## 1. BT天堂（已挂！！！）
 
@@ -14,7 +14,7 @@
 
 
 
-## 2. 字幕下载
+## 2. 字幕下载 (Alfred3)
 
 利用射手播放器的API获取字幕，并下载到视频文件当前文件夹。
 你需要的只是按一下快捷键而已。
